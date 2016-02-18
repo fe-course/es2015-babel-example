@@ -1,12 +1,11 @@
 {
-  "name": "url-download",
-  "version": "1.0.0",
+  "name": "url-download-file",
+  "version": "1.0.7",
   "description": "download resource by URL",
   "main": "index.js",
   "scripts": {
     "test": "npm run compile && ./node_modules/.bin/mocha --compilers js:babel-core/register",
-    "compile": "./node_modules/.bin/babel src/ -d lib/",
-    "prepublish": "npm run compile"
+    "compile": "./node_modules/.bin/babel src/ -d lib/"
   },
   "repository": {
     "type": "git",
@@ -16,7 +15,7 @@
     "babel",
     "es2015"
   ],
-  "author": "GuoYongfeng",
+  "author": "guoyongfeng",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fe-course/es2015-babel-example/issues"
