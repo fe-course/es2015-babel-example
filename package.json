@@ -1,6 +1,6 @@
 {
   "name": "url-download-file",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "download resource by URL",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "babel",
     "es2015"
   ],
-  "author": "guoyongfeng",
+  "author": "guo296512521",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fe-course/es2015-babel-example/issues"
